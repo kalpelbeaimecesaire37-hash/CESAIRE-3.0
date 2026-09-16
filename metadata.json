@@ -1,0 +1,6 @@
+{
+  "name": "CESAIRE 3.0",
+  "description": "Formations, guides et ressources pratiques pour développer tes compétences, maîtriser les outils numériques et transformer tes connaissances en opportunités.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
